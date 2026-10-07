@@ -48,18 +48,11 @@ Data Science and Machine Learning for logistics, geoprocessing, and decision sup
 
 | Project | Topic | Stack |
 |---|---|---|
-| [PhD Research — Operational Research](https://github.com/roberval1994) | Overview of the doctoral research line | — |
+| [PhD Research — Operational Research](https://github.com/roberval1994/PhD-Research-Operational-Research) | Hub connecting the three doctoral studies | GeoPandas, PuLP, Qiskit |
 | [Spatial Interpolation of Precipitation](https://github.com/roberval1994/Spatial-Interpolation-of-Precipitation-in-Sparse-Rainfall-Networks) | IDW vs Kriging vs Splines in sparse networks | PyKrige, GeoPandas |
 | [Multiobjective Rain-Gauge Optimization](https://github.com/roberval1994/Multiobjective-Optimization-of-Urban-Rain-Gauge-Networks) | MCLP, K-Means, greedy & hybrid heuristics | PuLP/CBC, Folium |
-| Quantum Rain-Gauge Optimization | QUBO / QAOA facility location | Qiskit, IBM Quantum |
-| ML Demand Forecasting (end-to-end) | Full ML pipeline, time series | scikit-learn, SHAP |
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roberval1994&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberval1994&layout=compact&theme=default" height="160" />
-</p>
+| [Quantum Rain-Gauge Optimization](https://github.com/roberval1994/Quantum-Optimization-Rain-Gauge-QUBO-QAOA) | QUBO / QAOA facility location | Qiskit, IBM Quantum |
+| [ML Demand Forecasting (end-to-end)](https://github.com/roberval1994/ml-demand-forecasting) | Full ML pipeline, time series | scikit-learn, SHAP |
 
 ---
 
