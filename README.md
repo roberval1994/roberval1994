@@ -8,6 +8,8 @@
   <a href="http://lattes.cnpq.br/4394523940603239"><img src="https://img.shields.io/badge/Lattes-CNPq-00599C?style=for-the-badge" /></a>
 </p>
 
+<p align="center">📄 <a href="cv/">Curriculum Vitae / Currículo</a></p>
+
 <p align="center">🌐 English | <a href="#-pt-br">Português</a></p>
 
 ---
