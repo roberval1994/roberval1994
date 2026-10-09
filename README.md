@@ -54,7 +54,22 @@ Data Science and Machine Learning for logistics, geoprocessing, and decision sup
 | [Spatial Interpolation of Precipitation](https://github.com/roberval1994/Spatial-Interpolation-of-Precipitation-in-Sparse-Rainfall-Networks) | IDW vs Kriging vs Splines in sparse networks | PyKrige, GeoPandas |
 | [Multiobjective Rain-Gauge Optimization](https://github.com/roberval1994/Multiobjective-Optimization-of-Urban-Rain-Gauge-Networks) | MCLP, K-Means, greedy & hybrid heuristics | PuLP/CBC, Folium |
 | [Quantum Rain-Gauge Optimization](https://github.com/roberval1994/Quantum-Optimization-Rain-Gauge-QUBO-QAOA) | QUBO / QAOA facility location | Qiskit, IBM Quantum |
-| [ML Demand Forecasting (end-to-end)](https://github.com/roberval1994/ml-demand-forecasting) | Full ML pipeline, time series | scikit-learn, SHAP |
+| [ML Demand Forecasting (end-to-end)](https://github.com/roberval1994/ml-demand-forecasting) | Full ML pipeline, time series | scikit-learn, SHAP, XGBoost |
+| [PySpark Taxi Demand & Fleet Optimization](https://github.com/roberval1994/pyspark-taxi-demand-fleet-optimization) | Big-data ML + exact optimization | PySpark, Spark MLlib, PuLP |
+
+## 📈 A progression of growing complexity
+
+My projects are meant to be read as a journey — from estimating a signal, to optimizing a
+decision, to doing both at scale:
+
+1. **Estimate** — [Spatial interpolation of precipitation](https://github.com/roberval1994/Spatial-Interpolation-of-Precipitation-in-Sparse-Rainfall-Networks): classical geostatistics (IDW, Kriging, Splines).
+2. **Optimize (classical)** — [Multiobjective rain-gauge networks](https://github.com/roberval1994/Multiobjective-Optimization-of-Urban-Rain-Gauge-Networks): exact MCLP, heuristics and hybrids.
+3. **Optimize (quantum)** — [QUBO / QAOA facility location](https://github.com/roberval1994/Quantum-Optimization-Rain-Gauge-QUBO-QAOA): the same decision, explored on quantum hardware.
+4. **End-to-end ML** — [Demand forecasting](https://github.com/roberval1994/ml-demand-forecasting): a full, tested ML pipeline with explainability.
+5. **ML + optimization at scale** — [PySpark taxi demand & fleet optimization](https://github.com/roberval1994/pyspark-taxi-demand-fleet-optimization): distributed ML feeding an exact optimizer (*forecast → decide*).
+
+Different data sources, different stacks, increasing complexity — ending where ML and
+Operational Research meet on big data.
 
 ---
 
@@ -72,6 +87,20 @@ Ciência de Dados e Machine Learning para logística, geoprocessamento e suporte
 - 💼 Ex-**Cientista de Dados / Analista de Otimização** (Dom Rock)
 - 🏆 **3º Lugar – Best Paper Award, ICPR-A 2026**
 - 🎯 Aberto a vagas de **Ciência de Dados** e **Analista de Otimização**
+
+### 📈 Uma progressão de complexidade crescente
+
+Meus projetos foram pensados para serem lidos como uma jornada — de estimar um sinal, a
+otimizar uma decisão, até fazer os dois em escala:
+
+1. **Estimar** — [Interpolação espacial de precipitação](https://github.com/roberval1994/Spatial-Interpolation-of-Precipitation-in-Sparse-Rainfall-Networks): geoestatística clássica (IDW, Krigagem, Splines).
+2. **Otimizar (clássico)** — [Redes multiobjetivo de pluviômetros](https://github.com/roberval1994/Multiobjective-Optimization-of-Urban-Rain-Gauge-Networks): MCLP exato, heurísticas e híbridos.
+3. **Otimizar (quântico)** — [Localização via QUBO / QAOA](https://github.com/roberval1994/Quantum-Optimization-Rain-Gauge-QUBO-QAOA): a mesma decisão, explorada em hardware quântico.
+4. **ML ponta a ponta** — [Previsão de demanda](https://github.com/roberval1994/ml-demand-forecasting): pipeline de ML completo, testado e com explicabilidade.
+5. **ML + otimização em escala** — [PySpark: demanda de táxi & alocação de frota](https://github.com/roberval1994/pyspark-taxi-demand-fleet-optimization): ML distribuído alimentando um otimizador exato (*prever → decidir*).
+
+Fontes de dados distintas, stacks distintas, complexidade crescente — terminando onde ML e
+Pesquisa Operacional se encontram em big data.
 
 > 📍 Grossos, Rio Grande do Norte, Brasil · Disponível para mudança
 > 📫 roberval.researcher.or@outlook.com
